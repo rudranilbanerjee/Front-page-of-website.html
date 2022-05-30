@@ -1,0 +1,32 @@
+*
+{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+body
+{
+	background-color: white;
+}
+.login
+{
+	width:450px;
+	height:250px;
+	background:#FF0080;
+	margin:150px auto;
+	border-radius: 7px;
+	padding-left: 48px;
+	padding-top: 35px; 
+}
+.log-in-form input
+{
+	background: #E0E0E0;
+	width: 350px;
+	height: 40px;
+	font-size: 15px;
+	border:solid #FF0080 1px;
+	border-radius: 7px;
+	margin: 3px auto;
+	margin-top: 15px; 
+	padding: 8px 0 8px 8px;
+}
